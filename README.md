@@ -51,9 +51,9 @@ views = para as views ou pages do projeto (view do mvc)
 
 * algum browser para testar o projeto
 
-```bash
-#### 🎲 Rodando o Backend (servidor)
 
+#### 🎲 Rodando o Backend (servidor)
+```bash
   abrir o terminal na pasta do projeto :
      intalar as dependencias: npm install
      alterar o arquivo de configuração e .env: com as suas credenciais de acesso ao banco de dados
@@ -62,8 +62,9 @@ views = para as views ou pages do projeto (view do mvc)
 
 ```
 
-```bash
+
 #### 🧭 Rodando a aplicação web (Frontend)
+```bash
   esta na pasta views como index.html e somente abrir o aquivo index.html
 
 ```
